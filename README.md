@@ -5,8 +5,7 @@
 
 Estas son las carácterísticas de mi proyecto:
 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
-⋅⋅* Unordered sub-list. 
+* Unordered list can use asterisks
+* Unordered list can use asterisks
+* Unordered list can use asterisks
+* Unordered list can use asterisks
