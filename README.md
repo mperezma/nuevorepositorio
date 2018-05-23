@@ -11,4 +11,4 @@ Estas son las carácterísticas de mi proyecto:
 * Unordered list can use asterisks
 
 
-Puedes consultar mi CV en [Linkedin].
+Puedes consultar mi CV en [linkedin].
