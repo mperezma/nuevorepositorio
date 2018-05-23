@@ -13,5 +13,4 @@ Estas son las carácterísticas de mi proyecto:
 
 Puedes consultar mi CV en [linkedin](https://www.google.com).
 
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Aquí está mi imagen corporativa: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
