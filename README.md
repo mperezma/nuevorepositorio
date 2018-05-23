@@ -1,5 +1,3 @@
-# nuevorepositorio
+# Proyecto Nuevo Repositorio
 
-esto es un nuevo repositorio para el ejercicio
-
-esto es un cambio desde la web
+##### Miguel Pérez Martínez
