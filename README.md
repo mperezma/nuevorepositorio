@@ -9,3 +9,6 @@ Estas son las carácterísticas de mi proyecto:
 * Unordered list can use asterisks
 * Unordered list can use asterisks
 * Unordered list can use asterisks
+
+
+Puedes consultar mi CV en [Linkedin].
